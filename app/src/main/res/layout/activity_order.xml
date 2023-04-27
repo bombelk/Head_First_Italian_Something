@@ -8,7 +8,7 @@
     tools:context=".OrderActivity">
 
     <include
-        android:id="toolbar"
+        android:id="@+id/toolbar"
         layout="@layout/toolbar_main">
 
     </include>
