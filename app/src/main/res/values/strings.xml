@@ -2,4 +2,26 @@
     <string name="app_name">Włoskie Co Nieco</string>
     <string name="create_order">Złóż zamówienie</string>
     <string name="crreate_odrder_title">Złóż zamówienie</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_top">Fragment główny</string>
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Wrocław</item>
+        <item>Kraków</item>
+    </string-array>
+
+    <string name="home_tab">Start</string>
+    <string name="pizza_tab">Pizze</string>
+    <string name="pasta_tab">Makarony</string>
+    <string name="store_tab">Pizzerie</string>
 </resources>
